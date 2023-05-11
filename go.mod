@@ -2,10 +2,7 @@ module Test20230509eth
 
 go 1.20
 
-require (
-	github.com/ethereum/go-ethereum v1.11.6
-	golang.org/x/net v0.8.0
-)
+require github.com/ethereum/go-ethereum v1.11.6
 
 require (
 	github.com/StackExchange/wmi v0.0.0-20180116203802-5d049714c4a6 // indirect
